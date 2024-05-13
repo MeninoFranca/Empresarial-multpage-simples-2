@@ -1,0 +1,821 @@
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .vrp_menu > ul > li > a {
+    margin: 38px 7px 38px;
+  }
+}
+/* ------------------------------------------------- Large Screen. 1024 ---------------------------------------------------*/
+@media (min-width: 1024px) and (max-width: 1600px) {
+  /* banner area css */
+}
+/* ------------------------------------------------- Laptop Screen 1366 ---------------------------------------------------*/
+@media (min-width: 1170px) and (max-width: 1366px) {
+  /* banner area css */
+}
+/* ------------------------------------------------- Old Desktop :1365-1660 ---------------------------------------------------*/
+@media (min-width: 1365px) and (max-width: 1660px) {
+  /* New Top Menu css */
+  .vrp_nav_area,
+  .vrp-header-top {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+  #scrollUp {
+    right: 65px;
+    bottom: 92px;
+  }
+  /* swiper slider */
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .witr_sw_text_area {
+    width: 83%;
+  }
+  /*======== slick slider ==========*/
+  .footer-bottom:before {
+    width: 90%;
+  }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1364px) {
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    font-size: 55px;
+    line-height: 1.3;
+  }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* New Top Menu css */
+  .vrp_nav_area,
+  .vrp-header-top {
+    padding-right: 0px !important;
+    padding-left: 50px !important;
+  }
+  /* swiper slider */
+  .witr_sw_text_area {
+    width: 90%;
+  }
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .witr_swiper_height {
+    height: 600px;
+  }
+  /* nivo slider */
+  /*========= New Top Menu css ========*/
+  /*========= banner area css ========*/
+  /*======== banner_area 2 ==========*/
+  /*======== slick slider ==========*/
+  /*========== height css ===========*/
+  .vrp_menu > ul > li > a {
+    font-size: 15px;
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  a.dtbtn {
+    font-size: 15px;
+  }
+
+  .witr_h_h10 .vrp_menu > ul > li > a {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  /* new css */
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 67%;
+  }
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  /* witr_section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h3 {
+    font-size: 40px;
+  }
+  /* text_widget css */
+  /* Screenshots css */
+  .dnSlide-main.done {
+    margin-left: 61px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-right-btn {
+    right: -83px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-left-btn {
+    left: -43px;
+  }
+  /* shortcode_content */
+  /* images_area */
+  /* blog css */
+  /* team css */
+  /* feature css */
+  .witr_feature2 h3 {
+    font-size: 20px;
+  }
+  /* service css */
+  .witr_content_service h3 {
+    color: #fff;
+    font-size: 20px;
+  }
+  /* testomonial style 8 css */
+  /* curosel-style css */
+  /* countdown css */
+  span.cdowns {
+    margin: 0 14px;
+  }
+  /* timeline css */
+  /* static tab css*/
+  .footer-bottom::before {
+    width: 95%;
+  }
+  .witr_back_process,
+  .witr_process_box {
+    display: none;
+  }
+  /* add new css*/
+  /* causes */
+  /* event */
+  #scrollUp {
+    bottom: 85px;
+    right: 30px;
+  }
+  .vrp_about_area .witr_section_title_inner h3 {
+    font-size: 28px;
+  }
+  .witr_single_counter {
+    height: 230px;
+    width: 230px;
+  }
+  .witr_counter_text h4 {
+    font-size: 22px;
+  }
+  .em_single_coments {
+    padding: 37px 16px 26px;
+  }
+  .witr_content_pslide_text a {
+    font-size: 20px;
+  }
+  .serivce_bg .witr_feature2 {
+    padding: 65px 21px;
+  }
+  .vrp_project_area {
+    padding: 100px 0px 100px;
+  }
+  .apartment_text h2 {
+    font-size: 28px;
+  }
+}
+/* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .vrp-header-top {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  /* swiper slider */
+  .witr_sw_text_area {
+    width: 85%;
+  }
+  .witr_swiper_height {
+    height: 800px !important;
+  }
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 48% !important;
+    top: 17% !important;
+  }
+  .witr_swiper_area .text-right .slider_vd_icon {
+    left: 48% !important;
+    top: 17% !important;
+  }
+  .witr_swiper_area .text-center .slider_vd_icon {
+    top: 17%;
+  }
+  .witr_sw_text_area.text-right,
+  .witr_sw_text_area.text-left {
+    text-align: center !important;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    font-size: 55px;
+    line-height: 1.2;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  /* nivo slider */
+  /* banner area css */
+  /*=========== banner area 2 css ===============*/
+  /* animate_banner_area */
+  /*=========== Slick area css ===============*/
+  .text-left .slider_vd_icon {
+    right: 43% !important;
+    top: -13% !important;
+  }
+  .text-right .slider_vd_icon {
+    left: 43% !important;
+    top: -13% !important;
+  }
+  /* tutor */
+  /* Em-Creative Header */
+  /* section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 83%;
+  }
+  /* about css */
+  /* accourdion css */
+  /* service css */
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  /* testomonial css */
+  /* testomonial style 8 css */
+  /* blog css */
+  /* Screenshots css */
+  .dnSlide-main.done {
+    margin-left: -54px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-right-btn {
+    right: 0px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-left-btn {
+    left: 47px;
+  }
+  /* about css */
+  /* counter css */
+  .witr_counter_single {
+    text-align: center;
+  }
+  .witr_custom_icon {
+    margin-bottom: 10px;
+    float: none !important;
+  }
+  .witr_custom_icon i {
+    margin-right: 0;
+    float: none;
+  }
+  /* shortcode_content */
+  .footer-bottom:before {
+    width: 92%;
+  }
+  /* blog css */
+  .blog-left-side .widget h2 {
+    font-size: 19px;
+  }
+  .breadcumb-area {
+    padding: 100px 0px !important;
+  }
+  /* call-to-action css */
+  /* single portfolio2 */
+  .portfolio-details-box {
+    margin-left: 0;
+  }
+  /* contact css */
+  /* countdown css */
+  span.cdowns {
+    margin-bottom: 20px;
+  }
+  span.cdowns:before {
+    display: none;
+  }
+  span.cdowns:after {
+    display: none;
+  }
+  .witr_btn {
+    margin-top: 11px !important;
+  }
+  /* curosel-style css */
+  /* timeline css */
+  /* static tab css*/
+  /*====== new css ======= */
+  /* ab_videoArea */
+  .em_single_coments {
+    padding: 37px 20px 26px;
+  }
+  .witr_s_flex {
+    display: inherit;
+  }
+  /* new css add */
+  #scrollUp {
+    bottom: 85px;
+    right: 30px;
+  }
+  /* vrp_features_area */
+  .about .em-service2.sleft .em-service-icon {
+    float: left;
+  }
+  .about .all_color_service p {
+    font-size: 14px;
+    padding: 0px 150px 0px 0px;
+  }
+  .single_faq_bg_area .single_image {
+    margin-top: 50px;
+  }
+  .single_portfolio_previwe2 {
+    margin-bottom: 50px;
+  }
+  .witr_content_pslide_text a {
+    font-size: 20px;
+  }
+  .apartment_text h2 {
+    font-size: 26px;
+  }
+  .vrp-news-details-inner {
+    padding: 38px 25px 45px;
+  }
+  .features_bg .em-service2.sleft.all_color_service {
+    text-align: center;
+  }
+  .faq_area .witr_ac_style {
+    font-size: 20px;
+  }
+  .accordion_area {
+    margin-top: 50px;
+  }
+  .carso_idcoment .comentCreCon {
+    padding: 50px 15px 50px;
+  }
+  .vrp_about_area .single_image_area {
+    margin-bottom: 50px;
+  }
+  .contact5_area .apartment_area {
+    margin-bottom: 30px;
+  }
+  .vrp_project_area {
+    padding: 100px 0px 100px;
+  }
+}
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+@media (max-width: 767px) {
+  /* New Top Menu css */
+  .breadcumb-area {
+    padding: 100px 0px !important;
+  }
+  .brpt h2 {
+    font-size: 26px;
+  }
+  /* swiper slider */
+  .witr_swiper_height {
+    height: 700px !important;
+    width: 100% !important;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 37% !important;
+    top: 12% !important;
+  }
+  .witr_swiper_area .text-right .slider_vd_icon {
+    left: 40% !important;
+    top: 12% !important;
+  }
+  .witr_swiper_area .text-center .slider_vd_icon {
+    top: 12%;
+  }
+  .witr_sw_text_area.text-right,
+  .witr_sw_text_area.text-left {
+    text-align: center !important;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+  .witr_swiper_area .witr_btn {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-left .witr_swiper_content h1,
+  .text-center .witr_swiper_content h1 {
+    font-size: 20px;
+  }
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3 {
+    font-size: 35px;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content p {
+    font-size: 17px;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  .witr_sw_text_area {
+    width: 100%;
+  }
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    line-height: 50px;
+  }
+  /* em-slider-title */
+  /*========= banner area css ===========*/
+  /*=========== banner area 2 css ===============*/
+  /* animate_banner_area */
+  /*=========== Slick area 2 css ===============*/
+  .text-left .slider_vd_icon {
+    right: 40% !important;
+    top: -18% !important;
+  }
+  .text-right .slider_vd_icon {
+    left: 40% !important;
+    top: -18% !important;
+  }
+  /* tutor */
+  /* top bar */
+  /* .top-address {
+         text-align: center;
+    }
+  .social-icons.text-right {
+         text-align: center;
+    }
+     */
+  .top-address p a,
+  .top-right-menu ul.social-icons li a,
+  .top-address p span {
+    font-size: 13px;
+  }
+  .top-right-menu ul.social-icons {
+  }
+  /* footer bar */
+  .copy-right-text p {
+    text-align: center;
+  }
+  .footer-bottom:before {
+    width: 90%;
+  }
+  /* blog css */
+  .vrp-blog-meta-left a,
+  .vrp-blog-meta-left span {
+    font-size: 11px;
+    margin-right: 3px;
+  }
+  /* single blog */
+
+  .news-content ul {
+    padding-left: 20px;
+  }
+
+  .news-content ol {
+    padding-left: 20px;
+  }
+  .pdsl {
+    padding-bottom: 90px;
+  }
+  /* footer css */
+  .copy-right-text p {
+    font-size: 11px;
+  }
+  /* Em-Creative Header */
+  /* new css */
+  /* footer css */
+  .copy-right-text p {
+    font-size: 15px;
+  }
+  /* section title css */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h2,
+  .witr_section_title_inner h3 {
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .witr_section_title_inner h2 {
+    margin-bottom: 4px;
+    font-size: 15px;
+  }
+
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 100%;
+  }
+  .witr_section_title_inner p {
+    padding-top: 10px;
+  }
+  .witr_section_title {
+    text-align: center;
+  }
+  /* about css */
+  /* feature area */
+  /* Screenshots css */
+  .dnSlide-main.done {
+    -webkit-transform: scale(0.4);
+    transform: scale(0.4);
+    margin-left: -280px;
+    top: -120px;
+  }
+  .dnSlide-main img {
+    width: 100%;
+  }
+  .dnSlide-btn {
+    display: none;
+  }
+  /* countdown css */
+  span.cdowns {
+    margin-bottom: 30px;
+  }
+  span.cdowns:before {
+    display: none;
+  }
+  span.cdowns:after {
+    display: none;
+  }
+  .witr_btn {
+    margin-top: 11px !important;
+    margin-bottom: 15px;
+  }
+  /* testomonial css */
+  .comentCreCon {
+    padding: 8px 20px 30px 20px;
+  }
+  /* testomonial style 8 css */
+  /* service css */
+  .service-item {
+    text-align: center;
+  }
+  .em-service2.sleft {
+    text-align: center;
+  }
+  .witr_s_flex {
+    display: inherit;
+  }
+  /* tab css */
+  /* accourdion css */
+  .witr_ac_style {
+    font-size: 15px;
+  }
+  .witr_ac_style:before,
+  .active .witr_ac_style:before {
+    right: 10px;
+  }
+  /* blog css */
+  /* counter css */
+  .witr_counter_single {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .witr_custom_icon {
+    margin-bottom: 10px;
+    float: none !important;
+  }
+  .witr_custom_icon i {
+    margin-right: 0;
+    float: none;
+  }
+  /* video css */
+  /* contact css */
+  /* apps_button css */
+  /* blog css */
+  .footer-middle {
+    text-align: center;
+  }
+  /* call to action */
+  /* shortcode_content */
+  /* single portfolio2 */
+  .portfolio-details-box {
+    margin-left: 0;
+  }
+  .portfolio-details-box ul li span.eright {
+    font-size: 15px;
+    margin-left: 0;
+  }
+  .portfolio-details-box ul li b {
+    font-size: 15px;
+  }
+  .portfolio-details-box h2 {
+    padding-top: 20px;
+  }
+  /* single_protfolio css */
+  .single_protfolio {
+    margin-bottom: 30px;
+  }
+  /* contact css */
+  /* display none css*/
+  .owl-nav,
+  .slick-prev,
+  .slick-next {
+    display: none;
+  }
+  /* timeline css*/
+  /* static tab css*/
+  .vrp-header-top {
+    display: none;
+  }
+  .accordion_area {
+    padding-top: 40px;
+  }
+  .footer-sociala-icon {
+    float: none;
+  }
+  .footer-sociala-info p {
+    text-align: center;
+  }
+  /*====== new css ======= */
+  /* ab_videoArea */
+  /* service */
+  .em_single_coments {
+    padding: 37px 20px 26px;
+  }
+  .witr_coment_itemt {
+    padding: 0px;
+  }
+  /* icon_section */
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  /* about css */
+  .about .witr_section_title_inner.text-left p {
+    width: 99%;
+  }
+  .about .all_color_service p {
+    padding: 0px 80px 0px 0px;
+  }
+  .about_area .single_image_area {
+    margin-top: 50px;
+  }
+  /* team css */
+  /* new css add */
+  .apartment_text h2 {
+    font-size: 25px;
+  }
+  .ps1 .witr_content_pslide_text {
+    padding: 0 10px 20px;
+  }
+  .witr_content_pslide_text h3 {
+    font-size: 19px;
+  }
+  .ps1 .witr_content_pslide_text {
+    left: 15px;
+    right: 15px;
+  }
+  .ps3.ps1 .witr_content_pslide_text {
+    padding: 18px 20px 23px;
+  }
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+  #scrollUp {
+    bottom: 92px;
+    right: 30px;
+  }
+  .social-icons {
+    text-align: center;
+  }
+  .news-content h2 {
+    font-size: 22px;
+  }
+  .apartment_area {
+    padding: 60px 20px 60px;
+  }
+  .vrp-news-details-inner {
+    padding: 38px 15px 45px;
+  }
+  .vrp-news-title h2 {
+    font-size: 17px;
+  }
+  .witr_number_pslide {
+    float: none;
+  }
+  .witr_number_pslide h4 {
+    font-size: 30px;
+  }
+  .witr_content_pslide_text a {
+    font-size: 21px;
+  }
+  .vrp_about_area .witr_pslide3 .witr_pslide_custom a span {
+    display: none;
+  }
+  .serivce_bg .witr_section_title .text-right {
+    text-align: left !important;
+  }
+  .faq_area .witr_ac_style {
+    padding: 19px 10px 19px;
+  }
+  .carso_idcoment .comentCreCon {
+    padding: 50px 11px 50px;
+  }
+  .contact5_area .apartment_area {
+    margin-bottom: 30px;
+  }
+  .vrp_project_area {
+    padding: 100px 0px 100px;
+  }
+  .faq_area .accordion_area .card-2 p {
+    padding: 15px 10px 5px;
+  }
+  .home_security .single_image {
+    margin-bottom: 40px;
+  }
+}
+/* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  /*=========== banner area 2 css ===============*/
+  /* portfolio css */
+  /* banner area css */
+  /* section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h2,
+  .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 91%;
+  }
+  /* text_widget css */
+  /* blog css */
+  /* Screenshots css */
+  .dnSlide-main.done {
+    -webkit-transform: scale(0.7);
+    transform: scale(0.7);
+    margin-left: -196px;
+  }
+  .vrp-header-top {
+    display: block;
+  }
+}
+/* menu and logo show & hide */
+@media (min-width: 10px) and (max-width: 991px) {
+  .mobile-menu {
+    display: block !important;
+  }
+  .mobile_logo_area {
+    display: block !important;
+  }
+  .vrp-main-menu {
+    display: none !important;
+  }
+}
+@media (min-width: 10px) and (max-width: 991px) {
+  .text_m_center {
+    text-align: center !important;
+  }
+}
+@media (min-width: 10px) and (max-width: 570px) {
+  .vrp-header-top {
+    display: none;
+  }
+}
