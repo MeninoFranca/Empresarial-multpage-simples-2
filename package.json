@@ -1,0 +1,37 @@
+{
+  "name": "vrp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "balanced-match": "^1.0.2",
+    "brace-expansion": "^2.0.1",
+    "commander": "^9.5.0",
+    "cssesc": "^3.0.0",
+    "fs.realpath": "^1.0.0",
+    "glob": "^8.1.0",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "minimatch": "^5.1.6",
+    "nanoid": "^3.3.6",
+    "once": "^1.4.0",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.24",
+    "postcss-selector-parser": "^6.0.13",
+    "purgecss": "^5.0.0",
+    "source-map-js": "^1.0.2",
+    "util-deprecate": "^1.0.2",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
